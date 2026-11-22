@@ -1,0 +1,13 @@
+Question,Type,AI Answer
+How many leave days do employees get?,in,"Based on the context provided, employees get:
+* **Annual Leave:** 20 paid leave days per year
+* **Sick Leave:** 10 paid sick days per year"
+How many sick days do employees get?,in,Employees get 10 paid sick days per year.
+What are the working hours?,in,"The working hours are Monday to Friday, 9:00 AM to 5:00 PM, with a 1 hour lunch break."
+When is salary paid?,in,Salaries are paid on the 1st of every month.
+What is the notice period for resigning?,in,"Based on the provided context, the notice period for resigning is 30 days written notice."
+How many days can employees work from home?,in,Employees may work from home up to 2 days per week (with manager approval).
+How long is the probation period?,in,The probation period for new employees is 3 months.
+Who is the CEO of the company?,out,I don't know.
+What is the company's stock price?,out,I don't know.
+Does the company provide free lunch?,out,I don't know.
